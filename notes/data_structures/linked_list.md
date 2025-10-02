@@ -13,6 +13,6 @@ A linked list is a linear data structure where each element (node) contains a va
 - Detecting cycles
 
 ## Example Problems
-- Reverse Linked List
+- [Reverse Linked List](../problems/reverse-linked-list.md)
 - Linked List Cycle
 - Merge Two Sorted Lists
